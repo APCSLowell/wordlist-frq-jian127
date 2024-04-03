@@ -22,9 +22,9 @@ public class WordList
   public void removeWordsOfLength(int len)
   {
     for(int c = 0; c < myList.size(); c++){
-      if(myList.get(i).length.equals(len){
-        myList.remove(i);
-        i--;
+      if(myList.get(c).length.equals(len){
+        myList.remove(c);
+        c--;
       }
     } 
 
